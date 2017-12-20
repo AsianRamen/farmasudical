@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<medications>
+  <medication>
+    <name>Drug1</name>
+    <drugID>0001</drugID>
+    <price>24.99</price>
+  </medication>
+  <medication>
+    <name>Drug2</name>
+    <drugID>0002</drugID>
+    <price>24.99</price>
+  </medication>
+  <medication>
+    <name>Drug3</name>
+    <drugID>0003</drugID>
+    <price>24.99</price>
+  </medication>
+  <medication>
+    <name>Drug4</name>
+    <drugID>0004</drugID>
+    <price>24.99</price>
+  </medication>
+  <medication>
+    <name>Drug5</name>
+    <drugID>0005</drugID>
+    <price>24.99</price>
+  </medication>
+  <medication>
+    <name>Drug6</name>
+    <drugID>0006</drugID>
+    <price>24.99</price>
+  </medication>
+  <medication>
+    <name>Drug7</name>
+    <drugID>0007</drugID>
+    <price>24.99</price>
+  </medication>
+  <medication>
+    <name>Drug8</name>
+    <drugID>0008</drugID>
+    <price>24.99</price>
+  </medication>
+</medications>
